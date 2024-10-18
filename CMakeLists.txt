@@ -1,0 +1,7 @@
+cmake_minimum_required( VERSION 3.10)
+project(EM)
+option(BUILD_SHARED_LIBS "Build using shared libraries" ON)
+add_library(Euler euler.cpp)
+target_include_directories(Euler PUBLIC ${CMAKE_SOURCE_DIR})
+add_executable(calculate euler_mod.cxx)
+target_link_libraries(calculate PRIVATE Euler)

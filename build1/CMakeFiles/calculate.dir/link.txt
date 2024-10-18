@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/calculate.dir/euler_mod.cxx.o -o calculate  libEuler.a 

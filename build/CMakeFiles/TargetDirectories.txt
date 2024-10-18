@@ -1,0 +1,4 @@
+/home/stud-06/Desktop/Sevinj/Euler_recounter/build/CMakeFiles/Euler.dir
+/home/stud-06/Desktop/Sevinj/Euler_recounter/build/CMakeFiles/calculate.dir
+/home/stud-06/Desktop/Sevinj/Euler_recounter/build/CMakeFiles/edit_cache.dir
+/home/stud-06/Desktop/Sevinj/Euler_recounter/build/CMakeFiles/rebuild_cache.dir
