@@ -1,2 +1,0 @@
-/usr/bin/ar qc libEuler.a CMakeFiles/Euler.dir/euler.cpp.o
-/usr/bin/ranlib libEuler.a

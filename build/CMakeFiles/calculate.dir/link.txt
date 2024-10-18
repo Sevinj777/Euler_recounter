@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/calculate.dir/euler_mod.cxx.o -o calculate  -Wl,-rpath,/home/stud-06/Desktop/Sevinj/Euler_recounter/build libEuler.so 
